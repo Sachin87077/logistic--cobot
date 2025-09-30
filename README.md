@@ -2,8 +2,8 @@
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange?logo=ros)
 ![MoveIt2](https://img.shields.io/badge/MoveIt2-Robot%20Manipulation-green?logo=ros)
-
----
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?logo=opencv&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-Visualization-purple?logo=ros&logoColor=white)
 
 ## 📌 Introduction  
 
