@@ -35,11 +35,7 @@ The project integrates **ROS2, Gazebo, MoveIt2, Nav2 stack, and UR5 manipulator*
 The system is built using ROS2 as the backbone, with multiple integrated packages:  
 
 
-
-
-# Logistic coBot (LB) theme for eYRC 2024-25
-
-
+## Results
 
 # Task 1B
 
