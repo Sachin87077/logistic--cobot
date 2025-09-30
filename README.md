@@ -7,7 +7,7 @@
 
 ## 📌 Introduction  
 
-The **Logistic CoBot (LB)** is a collaborative robotics project developed for the **e-Yantra Robotics Competition (eYRC) 2024-25**.  
+The **Logistic CoBot (LB)** is a  robotics project developed for the **e-Yantra Robotics Competition (eYRC) 2024-25**.  
 It is designed to simulate **autonomous warehouse operations** such as:  
 
 - Transporting packages between zones  
