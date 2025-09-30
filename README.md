@@ -1,4 +1,5 @@
-# 🚚 Logistic CoBot (LB) — eYRC 2024-25
+#  Logistic CoBot (LB) — eYRC 2024-25
+![UR5 Badge](https://img.shields.io/badge/UR5-Universal%20Robots-blue)
 
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange?logo=ros)
